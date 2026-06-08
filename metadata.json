@@ -1,0 +1,6 @@
+{
+  "name": "Mahika Valley Stay",
+  "description": "Ultra-premium luxury farmhouse and resort website in Jaipur, Rajasthan, featuring luxury accommodations, event hall, swimming pool, experiences, real-time booking system, and administration panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
